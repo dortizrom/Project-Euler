@@ -1,3 +1,3 @@
 # ProjectEuler
 
-Solutions to math problems for fun.
+Solutions to math problems just for fun.
